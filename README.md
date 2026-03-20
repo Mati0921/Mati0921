@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Matías Silva
 
-<!--
-**Mati0921/Mati0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en Informática enfocado en desarrollo de software
 
-Here are some ideas to get you started:
+🚀 Tecnologías:
+- PHP
+- Java
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Experiencia en:
+- Soporte TI
+- Integración de sistemas
+- Bases de datos
+
+📈 Actualmente:
+Desarrollando proyectos personales para fortalecer mi perfil como desarrollador junior.
+
+📫 Contacto:
+- LinkedIn: www.linkedin.com/in/matias-silva-marquez-a2870621b
